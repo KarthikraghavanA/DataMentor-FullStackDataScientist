@@ -1,0 +1,8 @@
+USE sql_store;--
+
+-- RETURN ALL THE ORDERS THAT WERE MADE BEFORE 2019
+
+SELECT *
+FROM orders
+WHERE order_date < '2019-01-01'
+;
