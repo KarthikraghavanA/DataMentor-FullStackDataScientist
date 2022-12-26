@@ -7,3 +7,4 @@
 ### Section 4 - Pandas
 ### Section 5 - Data Visualisation
 ### Section 6 - Statistics
+### Section 7 - Feature Engineering
